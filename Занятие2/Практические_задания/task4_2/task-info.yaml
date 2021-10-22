@@ -17,7 +17,7 @@ files:
       offset: 162
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: 0
   - offset: 282
     length: 53
@@ -27,7 +27,7 @@ files:
       offset: 284
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: 'range(len(list_)):'
   - offset: 360
     length: 57
@@ -37,7 +37,7 @@ files:
       offset: 348
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: list_[i]
   - offset: 429
     length: 64
@@ -47,7 +47,7 @@ files:
       offset: 412
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: 'current_value <= min_value:'
   text: |
     if __name__ == "__main__":
@@ -68,5 +68,8 @@ files:
 - name: __init__.py
   visible: false
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 22 Oct 2021 22:37:14 UTC
 record: -1
