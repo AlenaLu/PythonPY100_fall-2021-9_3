@@ -49,7 +49,7 @@ files:
       length: 39
       offset: 157
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: list_[0]
   - offset: 334
@@ -59,7 +59,7 @@ files:
       length: 34
       offset: 334
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: 'list_:'
   - offset: 645
@@ -69,7 +69,7 @@ files:
       length: 29
       offset: 645
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: 'current_value < min_value:'
   - offset: 740
@@ -79,7 +79,7 @@ files:
       length: 34
       offset: 740
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: min_value = current_value
   text: |

@@ -9,18 +9,18 @@ files:
   visible: true
   placeholders:
   - offset: 162
-    length: 68
+    length: 66
     placeholder_text: '...  # TODO чему равен индекс предполагаемого минимального
       элемента?'
     initial_state:
       length: 68
       offset: 162
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: 0
-  - offset: 284
-    length: 39
+  - offset: 282
+    length: 53
     placeholder_text: '...:  # TODO как перебрать все индексы?'
     initial_state:
       length: 39
@@ -29,24 +29,24 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: 'range(len(list_)):'
-  - offset: 348
-    length: 52
+  - offset: 360
+    length: 57
     placeholder_text: '...  # TODO как получить текущий элемент по индексу?'
     initial_state:
       length: 52
       offset: 348
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: list_[i]
-  - offset: 412
-    length: 41
+  - offset: 429
+    length: 64
     placeholder_text: '...:  # TODO  какое сравнение используем?'
     initial_state:
       length: 41
       offset: 412
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: 'current_value <= min_value:'
   text: |
