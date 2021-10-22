@@ -3,14 +3,14 @@ files:
 - name: main.py
   visible: true
   placeholders:
-  - offset: 0
-    length: 6
+  - offset: 31
+    length: 62
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 0
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Solved
     encrypted_possible_answer: |-
       a = int(input('Введите число '))
