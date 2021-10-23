@@ -10,7 +10,7 @@ files:
   visible: true
   placeholders:
   - offset: 208
-    length: 230
+    length: 225
     placeholder_text: |-
       # TODO заменить на enumerate
           for i in range(len(list_)):
